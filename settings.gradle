@@ -1,0 +1,4 @@
+include ':app', ':xpush'
+include ':libraryone'
+include ':component_base'
+include ':librarytwo'

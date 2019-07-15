@@ -1,0 +1,1 @@
+project.apply plugin: 'cc-register'
